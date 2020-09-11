@@ -7,8 +7,8 @@ Here we have few types of classification algorithms in machine learning:
 
 1.Logistic Regression
 2.Nearest Neighbor
-*Support Vector Machines
-*Decision Trees
+3.Support Vector Machines
+4.Decision Trees
 
 
 **Logistic Regression**(Predictive Learning Model) :
