@@ -6,9 +6,9 @@ In machine learning and statistics, classification is a supervised learning appr
 Here we have few types of classification algorithms in machine learning:
 
 1.Logistic Regression
--Nearest Neighbor
--Support Vector Machines
--Decision Trees
+2.Nearest Neighbor
+*Support Vector Machines
+*Decision Trees
 
 
 **Logistic Regression**(Predictive Learning Model) :
